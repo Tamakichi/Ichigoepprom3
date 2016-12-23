@@ -11,8 +11,8 @@
 #include <sdbitmap.h>
 #include "files.h"
 
-#define MYDEBUG   3            // 0:デバッグ表示on(=1)/off(=0)
-#define USE_CON   1            // コンソール出力 0:なし 1:あり
+#define MYDEBUG   0            // 0:デバッグ表示on(=1)/off(=0)
+#define USE_CON   0            // コンソール出力 0:なし 1:あり
 #define UART_BPS  115200       // デバッグ用シリアル通信ボーレート       
 extern "C" {
 #include <utility/twi.h>
