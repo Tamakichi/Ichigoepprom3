@@ -7,5 +7,4 @@ IchigoJam用EEPROMエミューレション
 [ArduinoによるI2C EEPROMのエミュレーション （３）](http://nuneno.cocolog-nifty.com/blog/2016/05/arduini2c-eepro.html)  
 [ArduinoによるI2C EEPROMのエミュレーション （４）](http://nuneno.cocolog-nifty.com/blog/2016/05/arduinoi2c-ee-1.html)  
 [ArduinoによるI2C EEPROMのエミュレーション （５）](http://nuneno.cocolog-nifty.com/blog/2016/05/arduinoi2c-ee-2.html)    
-
-
+[ArduinoによるI2C EEPROMのエミュレーション （６）](http://nuneno.cocolog-nifty.com/blog/2016/11/arduinoi2c-eepr.html)  
