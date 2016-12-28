@@ -2,13 +2,12 @@
 // I2C EEPROMエミュレーション プロタイプ版 v1 level2
 // 2016/04/26,4/30 作成 by Tamakitchi
 // 2016/05/04 テキスト形式の保存対応 by Tamakichi 
+// 2016/12/28 不要なヘッダーファイル読込の削除 by Tamakichi 
 //
 // 注意：このスケッチの動作にはWireライブラリ修正版が必要
 //
 
 #include <Wire.h>
-#include <sdfonts.h>
-#include <sdbitmap.h>
 #include "files.h"
 
 #define MYDEBUG   0            // 0:デバッグ表示on(=1)/off(=0)
