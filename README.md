@@ -70,7 +70,7 @@ openLogを応用した実装
 ![シールド化](./img/07.jpg)  
 
 
-関連記事  
+## 関連記事  
 [Arduino(あちゃんでいいの)によるI2C EEPROMのエミュレーション](http://nuneno.cocolog-nifty.com/blog/2016/04/arduinoi2c-eepr.html)  
 [Arduino(あちゃんでいいの)によるI2C EEPROMのエミュレーション （２）](http://nuneno.cocolog-nifty.com/blog/2016/05/arduinoi2c-eepr.html)  
 [ArduinoによるI2C EEPROMのエミュレーション （３）](http://nuneno.cocolog-nifty.com/blog/2016/05/arduini2c-eepro.html)  
