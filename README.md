@@ -6,6 +6,7 @@ IchigoJam用EEPROMエミューレション
 ##概要  
 IchigoJam用EEPROMエミューレションは、IchigoJam用の外部保存メモリ(I2C接続EEPROM)を  
 microSDカードに置き換えてエミュレーションを行うモジュールです。  
+**※ IchigoJam 1.2.2以降のバージョンには対応していません。**
 
 ### 特徴  
 - IchigoJamからはEEPROM 24LC1025 (メモリサイズ128kバイト) として認識されます。
